@@ -20,7 +20,7 @@ Open a system's console or an Anaconda Prompt depending on your python installat
 
 First, clone the repository.
 ```bash
-git clone https://github.com/qDNA-yonse/SQWLib
+git clone https://github.com/qDNA-yonsei/SQWLib
 ```
 This creates a folder called SQWLib. Change the directory to it.
 ```bash
