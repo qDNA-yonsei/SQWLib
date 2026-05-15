@@ -16,8 +16,13 @@ Department of Statistics and Data Science, Yonsei University, Seoul 03722, Repub
 This package is a simulator of the Szegedy Quantum Walk allowing the efficient simulation on sparse graphs, and also expanding the library SQUWALS for dense graphs with further operators. Moreover, it also provides a module for the simulation of quantum phase estimation algorithms based on Szegedy quantum walk.
 
 ## Installation  
-Open a system's console or an Anaconda Prompt depending on your python installation.
+Open a system's console or an Anaconda Prompt depending on your python installation. Install the package using pip and git.
 
+```bash
+pip install git+https://github.com/qDNA-yonsei/SQWLib
+```
+
+<!--  
 First, clone the repository.
 ```bash
 git clone https://github.com/qDNA-yonsei/SQWLib
@@ -30,8 +35,9 @@ Install the package using pip.
 ```bash
 pip install .
 ```
+-->  
 
-Alternativelly, you can download the folder squwals and copy it in your python working directory, or in some directory included in PYTHONPATH.
+Alternativelly, you can download the folder sqwlib and copy it in your python working directory, or in some directory included in PYTHONPATH.
 
 ## Optional
 
