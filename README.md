@@ -45,7 +45,7 @@ There are tutorials for using the sparse simualtor and the quantum phase estimat
 @article{ortega2026,
   title={SQWLib},
   author={Ortega, S. A. and Park, D. K.},
-  journal={arXiv:2307.14314},
+  journal={arXiv:...},
   year={2026},
 }
 ```
