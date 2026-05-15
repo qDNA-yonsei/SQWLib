@@ -22,7 +22,7 @@ First, clone the repository.
 ```bash
 git clone https://github.com/qDNA-yonse/SQWLib
 ```
-This creates a folder called squwals-2. Change the directory to it.
+This creates a folder called SQWLib. Change the directory to it.
 ```bash
 cd SQWLib
 ```
