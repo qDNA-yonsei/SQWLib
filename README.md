@@ -19,11 +19,11 @@ Open a system's console or an Anaconda Prompt depending on your python installat
 
 First, clone the repository.
 ```bash
-git clone https://github.com/OrtegaSA/squwals-2
+git clone https://github.com/qDNA-yonse/SQWLib
 ```
 This creates a folder called squwals-2. Change the directory to it.
 ```bash
-cd squwals-2
+cd SQWLib
 ```
 Install the package using pip.
 ```bash
