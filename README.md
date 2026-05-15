@@ -2,6 +2,7 @@
  
 # SQWLib: Simulator for quantum walks.
 Sergio A. Ortega and Daniel K. Park
+
 Department of Statistics and Data Science, Yonsei University, Seoul 03722, Republic of Korea
 
 [![arXiv](http://img.shields.io/badge/arXiv-...-B31B1B.svg)](https://arxiv.org/abs/...)
