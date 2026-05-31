@@ -8,7 +8,7 @@ setup(name='sqwlib',
       description='Szegedy Quantum Walk Simulator',
       author='Sergio A. Ortega and Daniel K. Park',
       author_email='s.a.ortega@yonsei.ac.kr',
-      url='https://github.com/...',
+      url='hhttps://github.com/qDNA-yonsei/SQWLib',
       license='Apache 2.0',
       # classifiers=[
       #   "Environment :: Console",
