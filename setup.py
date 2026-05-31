@@ -5,7 +5,7 @@ with open("requirements.txt") as f:
 
 setup(name='sqwlib',
       version='1.0',
-      description='Szegedy Quantum Walk Simulator',
+      description='Simulator for Quantum Walks',
       author='Sergio A. Ortega and Daniel K. Park',
       author_email='s.a.ortega@yonsei.ac.kr',
       url='hhttps://github.com/qDNA-yonsei/SQWLib',
