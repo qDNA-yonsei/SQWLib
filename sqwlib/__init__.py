@@ -23,8 +23,8 @@ __version__ = '1.0'
 
 import warnings
 
-from tlnan.sparse import *
-import tlnan.qpe as qpe
+from sqwlib .sparse import *
+import sqwlib .qpe as qpe
 
 __all__ = [
     'SpaceData',
@@ -42,7 +42,7 @@ __all__ = [
     'qpe.ReflectionPhase0',]
 
 try:
-    import tlnan.squwals_mod as squwals
+    import sqwlib .squwals_mod as squwals
     __all__.append('squwals')
 except ModuleNotFoundError:
     warnings.warn("SQUWALS is not installed. Dense simulator framework not available.")
