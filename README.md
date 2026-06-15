@@ -50,7 +50,7 @@ There are tutorials for using the sparse simualtor and the quantum phase estimat
 
 ```
 @article{ortega2026,
-  title={SQWLib},
+  title={Efficient Simulation of Szegedy Quantum Walk Formulations and Algorithms},
   author={Ortega, S. A. and Park, D. K.},
   journal={arXiv:2606.14226},
   year={2026},
