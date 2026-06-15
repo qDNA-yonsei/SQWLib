@@ -5,7 +5,7 @@ Sergio A. Ortega and Daniel K. Park
 
 Department of Statistics and Data Science, Yonsei University, Seoul 03722, Republic of Korea
 
-[![arXiv](http://img.shields.io/badge/arXiv-...-B31B1B.svg)](https://arxiv.org/abs/...)
+[![arXiv](http://img.shields.io/badge/arXiv-2606.14226-B31B1B.svg)](https://arxiv.org/abs/2606.14226)
 <!--  
 [![Journal](http://img.shields.io/badge/...)](...)
 -->  
@@ -52,7 +52,7 @@ There are tutorials for using the sparse simualtor and the quantum phase estimat
 @article{ortega2026,
   title={SQWLib},
   author={Ortega, S. A. and Park, D. K.},
-  journal={arXiv:...},
+  journal={arXiv:2606.14226},
   year={2026},
 }
 ```
