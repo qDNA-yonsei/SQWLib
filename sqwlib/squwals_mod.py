@@ -14,7 +14,7 @@
 
 """SQWLib: Simulator for quantum walks.
 
-SQUWALS vendor with additional oeprators.
+SQUWALS vendor with additional operators.
 """
 
 import numpy as np
