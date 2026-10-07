@@ -23,8 +23,8 @@ __version__ = '1.0'
 
 import warnings
 
-from sqwlib .sparse import *
-import sqwlib .qpe as qpe
+from sqwlib.sparse import *
+import sqwlib.qpe as qpe
 
 __all__ = [
     'SpaceData',
